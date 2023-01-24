@@ -1,0 +1,16 @@
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\SVC.MQTT.MessageReceiver.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\SVC.MQTT.MessageReceiver.pdb
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\M2Mqtt.Net.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\Newtonsoft.Json.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\SVC.HttpHelper.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\SVC.Logger.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\SVC.Common.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\SVC.HttpHelper.pdb
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\SVC.Logger.pdb
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\M2Mqtt.Net.pdb
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\Newtonsoft.Json.xml
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\bin\Debug\SVC.Common.pdb
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\obj\Debug\SVC.MQTT.MessageReceiver.csprojResolveAssemblyReference.cache
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\obj\Debug\SVC.MQTT.MessageReceiver.csproj.CoreCompileInputs.cache
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\obj\Debug\SVC.MQTT.MessageReceiver.dll
+C:\working\MQTT\SVC.MessageReceiver\SVC.MQTTReceiver\obj\Debug\SVC.MQTT.MessageReceiver.pdb

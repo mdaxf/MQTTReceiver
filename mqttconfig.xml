@@ -1,0 +1,31 @@
+<Config>
+  <target>
+    <basecallrestwebserviceurl>http://delsrv000039/Apriso/portal</basecallrestwebserviceurl>
+    <restwebserviceurl>http://DELSRV000039/Apriso/httpServices/operations/SVC_LPM_MQTTMsgReceiver</restwebserviceurl>
+    <restapikey>F4AEB652-8D37-4F5A-8A2E-1BDE04843AE5</restapikey>
+    <clientid>0F92E127-A06E-4BE3-A1FC-1078F655743A</clientid>    
+  </target>
+  <instances>
+    <instance name="">
+      <mqtts>
+	        <mqtt>
+		        <broker>test.mosquitto.org</broker>
+		        <brokerport></brokerport>
+		        <username></username>
+		        <password></password>
+		        <certificationfile></certificationfile>
+		        <rootcertfile></rootcertfile>
+		        <sslprotocol></sslprotocol>
+		        <basecallrestwebserviceurl>http://delsrv000039/Apriso/portal</basecallrestwebserviceurl>
+		        <restwebserviceurl>http://DELSRV000039/Apriso/httpServices/operations/SVC_LPM_MQTTMsgReceiver</restwebserviceurl>
+		        <restapikey>F4AEB652-8D37-4F5A-8A2E-1BDE04843AE5</restapikey>
+            <clientid>0F92E127-A06E-4BE3-A1FC-1078F655743A</clientid>
+		        <topics>
+			        <topic>testtopic/1</topic>
+			        <topic>testtopic/2</topic>
+		        </topics>
+	        </mqtt>
+        </mqtts>
+      </instance>
+    </instances>
+</Config>
